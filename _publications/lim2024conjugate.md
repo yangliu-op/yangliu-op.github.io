@@ -1,10 +1,10 @@
 ---
 title: "Conjugate Direction Methods Under Inconsistent Systems"
 collection: publications
-permalink: /publication/lim_CD
+permalink: /publication/lim2024conjugate
 excerpt: 'We studied the conjugate direction methods under symmetric and inconsistent settings.'
 date: 2024-01-22
-venue: 'Preprint'
+venue: 'Arxiv preprint'
 paperurl: 'https://arxiv.org/abs/2401.11714'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
