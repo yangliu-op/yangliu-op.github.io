@@ -2,14 +2,11 @@
 title: "Conjugate Direction Methods Under Inconsistent Systems"
 collection: publications
 permalink: /publication/lim2024conjugate
-excerpt: 'We studied the conjugate direction methods under symmetric and inconsistent settings.'
+excerpt: 'Authors: Alexander Lim, <strong>Yang Liu</strong>, Fred Roosta'
 date: 2024-01-22
 venue: 'Arxiv preprint'
 paperurl: 'https://arxiv.org/abs/2401.11714'
-citation: 'Alexander Lim, <strong>Yang Liu</strong>, Fred Roosta'
+# citation: ''
 ---
-<!-- This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
+A brief intro: We studied the conjugate direction methods under symmetric and inconsistent settings.
