@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a postdoc researcher in the [mathematical institute](https://www.maths.ox.ac.uk/) at [University of Oxford](https://www.ox.ac.uk/). I completed my PhD in mathematics at [University of Queensland](https://www.uq.edu.au/) under supervision of [Fred Roosta](https://people.smp.uq.edu.au/FredRoosta/).
+I'm currently a postdoc researcher in the [mathematical institute](https://www.maths.ox.ac.uk/) at the [University of Oxford](https://www.ox.ac.uk/). I completed my PhD in mathematics at the [University of Queensland](https://www.uq.edu.au/) under supervision of [Fred Roosta](https://people.smp.uq.edu.au/FredRoosta/).
 
 My research interests
------
+----
 - Design high-order optimization algorithms
   - Tensor methods
   - Newton methods

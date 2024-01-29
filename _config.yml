@@ -77,7 +77,6 @@ analytics:
   google:
     tracking_id          :
 
-
 # Site Author
 author:
   name             : "Yang Liu"
@@ -152,6 +151,10 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+# Bibio
+bibliography:
+  - /files/bibio.bib
+  # - https://example.com/my/remote/bibtex.bib
 
 # Conversion
 markdown: kramdown
