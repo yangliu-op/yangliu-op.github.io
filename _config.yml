@@ -153,7 +153,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Bibio
 bibliography:
-  - /files/bibio.bib
+  - files/bibio.bib
   # - https://example.com/my/remote/bibtex.bib
 
 # Conversion
