@@ -4,6 +4,8 @@ A Github Pages template for academic websites. One can fork the original templat
 
 1. Clone the repository
 1. Make sure ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `sudo bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `sudo bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `sudo bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+1. Run `gem install bundler`
+1. Run `bundle update`
+1. Run `bundle clean` to clean up the directory (no need to run `--force`)
+1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
+1. Run `bundle exec jekyll serve -l` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
