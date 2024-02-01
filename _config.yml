@@ -166,6 +166,7 @@ incremental: false
 
 # Markdown Processing
 kramdown:
+  disable : true
   input: GFM
   # math_engine: katex
   hard_wrap: false
