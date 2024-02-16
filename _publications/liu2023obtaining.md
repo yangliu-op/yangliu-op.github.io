@@ -8,6 +8,4 @@ venue: 'Arxiv preprint'
 paperurl: 'https://arxiv.org/abs/2309.17096'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-[Code](https://github.com/yangliu-op/Image-Debluring)
-
-A brief intro: We propose a novel and simple lifting strategy for MINRES to obtain the pseudo-inverse solution for inconsistent symmetric systems.
+Check [this post](https://yangliu-op.github.io/posts/2024/01/liu2024obtaining) for a 3-mins-paper description. Check [here](https://github.com/yangliu-op/Image-Debluring) to find the codes for the image deblurring problem. Check [here](https://github.com/yangliu-op/Curl-Curl) to find the codes for the curl curl problem.
