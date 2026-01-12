@@ -9,4 +9,6 @@ paperurl: 'https://arxiv.org/abs/2401.11714'
 # citation: ''
 ---
 
-A brief intro: We studied the conjugate direction methods under symmetric and inconsistent settings.
+Everyone uses Conjugate Gradient (CG), while Conjugate Residual (CR) is often ignored. We investigate these methods for inconsistent systems (where Ax=b has no solution). The demonstration that small modifications to the original algorithms allow for the pseudo-inverse solution and that CR is essentially equivalent to the minimum residual method proposed by Paige and Saunders in such contexts is presented.
+
+We ran a bunch of numerical experiments to test stability. Surprisingly, while people usually trust CG, we show that in these cases, it can be a total disaster! It exhibits significant numerical instability, sometimes bordering on catastrophe, unlike CR.
