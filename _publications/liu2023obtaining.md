@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/liu2023obtaining
 excerpt: 'Authors: <strong>Yang Liu</strong>, Andre Milzarek, Fred Roosta'
 date: 2025-08-07
-venue: 'Arxiv preprint'
+venue: 'SIAM Journal on Matrix Analysis and Applications, 2025'
 paperurl: 'https://epubs.siam.org/doi/abs/10.1137/24M1638422'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
