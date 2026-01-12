@@ -3,7 +3,7 @@ title: "A MINRES-based Linesearch Algorithm for Nonconvex Optimization with Non-
 collection: publications
 permalink: /publication/zeng2026quasi1
 excerpt: 'Authors: Hanfeng Zeng, <strong>Yang Liu</strong>, Wenqing Ouyang, Andre Milzarek'
-date: 2025-01-04
+date: 2026-01-04
 venue: 'Arxiv preprint'
 paperurl: 'https://arxiv.org/abs/2601.01575'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
