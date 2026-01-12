@@ -24,8 +24,7 @@ Research interests
 <!-- - Convergence analysis -->
 - Solvers
   - Krylov subspace methods
-  - Linear solvers
-  - Nonlinear solvers
+  - Linear/Nonlinear solvers
   - Preconditioning
   <!-- - Image processing -->
 <!-- - High performance computing -->
