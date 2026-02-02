@@ -2,7 +2,7 @@
 title: "Obtaining Pseudoinverse Solutions With MINRES"
 collection: publications
 permalink: /publication/liu2023obtaining
-excerpt: 'Authors: <strong>Yang Liu</strong>, Andre Milzarek, Fred Roosta'
+excerpt: 'Authors: <strong>Yang Liu</strong>*, Andre Milzarek, Fred Roosta'
 date: 2025-08-07
 venue: 'SIAM Journal on Matrix Analysis and Applications, 2025'
 paperurl: 'https://epubs.siam.org/doi/abs/10.1137/24M1638422'

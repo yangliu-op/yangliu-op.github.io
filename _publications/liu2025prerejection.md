@@ -2,7 +2,7 @@
 title: "Efficient Implementation of Third-Order Tensor Methods with Adaptive Regularization for Unconstrained Optimization"
 collection: publications
 permalink: /publication/liu2025prerejection
-excerpt: 'Authors: Coralia Cartis, Raphael Hauser, <strong>Yang Liu</strong>, Karl Welzel, Wenqi Zhu'
+excerpt: 'Authors: Coralia Cartis, Raphael Hauser, <strong>Yang Liu</strong>*, Karl Welzel, Wenqi Zhu'
 date: 2025-01-01
 venue: 'Arxiv preprint'
 paperurl: 'https://arxiv.org/abs/2501.00404'

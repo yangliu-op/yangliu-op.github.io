@@ -2,7 +2,7 @@
 title: "Local Convergence of Adaptively Regularzied Tensor Methods"
 collection: publications
 permalink: /publication/liu2025localtensor
-excerpt: 'Authors: Karl Welzel, <strong>Yang Liu</strong>, Raphael A. Hauser, Coralia Cartis'
+excerpt: 'Authors: Karl Welzel, <strong>Yang Liu</strong>*, Raphael A. Hauser, Coralia Cartis'
 date: 2025-10-29
 venue: 'Arxiv preprint'
 paperurl: 'https://arxiv.org/abs/2510.25643'
