@@ -2,7 +2,7 @@
 title: "A Newton-MR algorithm with complexity guarantees for nonconvex smooth unconstrained optimization"
 collection: publications
 permalink: /publication/liu2022newton
-excerpt: 'Authors: <strong>Yang Liu</strong>, Fred Roosta'
+excerpt: 'Authors: <strong>Yang Liu</strong>*, Fred Roosta'
 date: 2023-09-29
 venue: 'Arxiv preprint'
 paperurl: 'https://arxiv.org/abs/2208.07095'
