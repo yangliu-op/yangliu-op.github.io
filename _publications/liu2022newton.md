@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/liu2022newton
 excerpt: 'Authors: <strong>Yang Liu</strong>*, Fred Roosta'
 date: 2023-09-29
-venue: 'Arxiv preprint'
+venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2208.07095'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---

@@ -3,7 +3,7 @@ title: "Efficient Adaptive Regularized Tensor Methods"
 collection: talks
 type: "Presenter"
 permalink: /talks/EUROPT2025
-venue: "22th Conference on Advances in Coutinuous Optimization"
+venue: "22nd Conference on Advances in Continuous Optimization"
 date: 2025-06-30
 location: "University of Southampton, Southampton, UK"
 ---

@@ -3,7 +3,7 @@ title: "Efficient Adaptive Regularized Tensor Methods"
 collection: talks
 type: "Presenter"
 permalink: /talks/ICCOPT825
-venue: "2025 INTERNATIONAL CONFERENCE ON CONTINUOUS OPTIMIZATION"
+venue: "International Conference on Continuous Optimization (ICCOPT 2025)"
 date: 2025-07-24
 location: "University of Southern California, LA, USA"
 ---

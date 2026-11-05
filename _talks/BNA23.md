@@ -5,7 +5,7 @@ type: "Presenter"
 permalink: /talks/BNA23
 venue: "29th Biennial Conference on Numerical Analysis"
 date: 2023-06-29
-location: "University of Strathclyde, Glosgow, UK"
+location: "University of Strathclyde, Glasgow, UK"
 ---
 
 [More information here](http://personal.strath.ac.uk/gabriel.barrenechea/naprogramme23.pdf)

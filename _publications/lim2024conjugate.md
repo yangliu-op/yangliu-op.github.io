@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/lim2024conjugate
 excerpt: 'Authors: Alexander Lim, <strong>Yang Liu</strong>, Fred Roosta'
 date: 2024-01-22
-venue: 'Arxiv preprint'
+venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2401.11714'
 # citation: ''
 ---

@@ -2,7 +2,7 @@
 title: "Descent Properties of an Anderson Accelerated Gradient Method with Restarting"
 collection: publications
 permalink: /publication/ouyang2024descent
-excerpt: 'Authors: Wenqing Ouyang, <strong>Yang Liu</strong>, and Andre Milzarek'
+excerpt: 'Authors: Wenqing Ouyang, <strong>Yang Liu</strong>, Andre Milzarek'
 date: 2024-01-19
 venue: 'SIAM Journal on Optimization'
 paperurl: 'https://epubs.siam.org/doi/abs/10.1137/22M151460X?journalCode=sjope8'
