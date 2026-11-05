@@ -132,7 +132,8 @@
 
 .author__urls-wrapper {
   position: relative;
-  display: table-cell;
+  // no Follow button: on narrow screens the links form their own row below the avatar and name
+  display: block;
   vertical-align: middle;
   font-family: $sans-serif;
   z-index: 10;
@@ -159,65 +160,28 @@
 }
 
 .author__urls {
-  display: none;
-  position: absolute;
-  right: 0;
-  margin-top: 15px;
-  padding: 10px;
+  // always listed (formerly a drop-down opened by the Follow button on narrow screens)
+  display: block;
+  position: relative;
+  margin: 0;
+  padding: 0;
   list-style-type: none;
-  border: 1px solid $border-color;
+  border: 0;
   border-radius: $border-radius;
-  background: #fff;
+  background: transparent;
   z-index: -1;
-  box-shadow: 0 0 10px rgba(#000, 0.25);
+  box-shadow: none;
   cursor: default;
-
-  @include breakpoint($large) {
-    display: block;
-    position: relative;
-    margin: 0;
-    padding: 0;
-    border: 0;
-    background: transparent;
-    box-shadow: none;
-  }
-
-  &:before {
-    display: block;
-    content: "";
-    position: absolute;
-    top: -11px;
-    left: calc(50% - 10px);
-    width: 0;
-    border-style: solid;
-    border-width: 0 10px 10px;
-    border-color: $border-color transparent;
-    z-index: 0;
-
-    @include breakpoint($large) {
-      display: none;
-    }
-  }
-
-  &:after {
-    display: block;
-    content: "";
-    position: absolute;
-    top: -10px;
-    left: calc(50% - 10px);
-    width: 0;
-    border-style: solid;
-    border-width: 0 10px 10px;
-    border-color: #fff transparent;
-    z-index: 1;
-
-    @include breakpoint($large) {
-      display: none;
-    }
-  }
 
   li {
     white-space: nowrap;
+    display: inline-block;
+    margin-right: 1em;
+
+    @include breakpoint($large) {
+      display: list-item;
+      margin-right: 0;
+    }
   }
 
   a {

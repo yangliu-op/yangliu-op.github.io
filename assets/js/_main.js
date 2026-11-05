@@ -27,20 +27,16 @@ $(document).ready(function(){
   $(".sticky").Stickyfill();
 
   var stickySideBar = function(){
-    var show = $(".author__urls-wrapper button").length === 0 ? $(window).width() > 1024 : !$(".author__urls-wrapper button").is(":visible");
-    // console.log("has button: " + $(".author__urls-wrapper button").length === 0);
-    // console.log("Window Width: " + windowWidth);
-    // console.log("show: " + show);
-    //old code was if($(window).width() > 1024)
+    // The Follow button was removed and the links are always listed (see _sidebar.scss).
+    // The sidebar is sticky from the $large breakpoint on (925px = 57.8125em, the query the CSS uses), as it was with the button.
+    var show = window.matchMedia("(min-width: 57.8125em)").matches;
     if (show) {
       // fix
       Stickyfill.rebuild();
       Stickyfill.init();
-      $(".author__urls").show();
     } else {
       // unfix
       Stickyfill.stop();
-      $(".author__urls").hide();
     }
   };
 

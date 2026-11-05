@@ -14,10 +14,13 @@ Prior to this, I was a Postdoctoral Researcher at the [Mathematical Institute](h
 
 E-mail: liuy **at** gbu.edu.cn
 
+News
+----
+- [Great Bay Workshop on Intelligent Computing & Optimization (GBWICO 2027)](https://yangliu-op.github.io/gbwico2027/), January 3-4, 2027, Great Bay University, Dongguan, China.
+
 Research Interests
 ----
 My research lies at the intersection of **numerical optimization** and **numerical linear algebra**, with an emphasis on scalability under limited memory and compute, and connections to **high-performance computing** and **AI for Mathematics**. Current focuses include:
 - **Second- and higher-order methods** for large-scale **nonconvex** optimization (algorithmic design, complexity analysis, and convergence analysis)
 - **Iterative solvers** for linear and nonlinear systems including preconditioning techniques
 - Extensions to **stochastic, randomized, and distributed** settings, with **high-performance implementations**
-- Foundations and early applications of **formal methods** (e.g., proof assistants / checkable reasoning) to reliable optimization and training workflows
