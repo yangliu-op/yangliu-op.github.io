@@ -1,6 +1,7 @@
 ---
 title: "Stability Analysis of Newton-MR under Hessian Perturbations"
 collection: talks
+published: false
 type: "Presenter"
 permalink: /talks/WOPS20
 venue: "WOPS20 – Workshop on Optimization, Probability, and Simulation"
