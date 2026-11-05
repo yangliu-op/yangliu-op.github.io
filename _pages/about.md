@@ -20,7 +20,7 @@ News
 
 Research Interests
 ----
-My research lies at the intersection of **numerical optimization** and **numerical linear algebra**, with an emphasis on scalability under limited memory and compute, and connections to **high-performance computing** and **AI for Mathematics**. Current focuses include:
-- **Second- and higher-order methods** for large-scale **nonconvex** optimization (algorithmic design, complexity analysis, and convergence analysis)
+My research lies at the intersection of numerical optimization and numerical linear algebra, with an emphasis on scalability under limited memory and compute, and connections to high-performance computing and AI for Mathematics. Current focuses include:
+- **Second- and higher-order methods** for large-scale nonconvex optimization (algorithmic design, complexity analysis, and convergence analysis)
 - **Iterative solvers** for linear and nonlinear systems including preconditioning techniques
-- Extensions to **stochastic, randomized, and distributed** settings, with **high-performance implementations**
+- Extensions to **stochastic, randomized, and distributed** settings, with high-performance implementations
