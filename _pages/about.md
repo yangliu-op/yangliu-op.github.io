@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure-track assistant professor at **Great Bay University**(GBU), based at the [Center for Intelligent Computing](https://www.gbu.edu.cn/menu/208) of the Great Bay Institute for Advanced Study, with a joint appointment in the [School of Computing and Information Technology](https://www.gbu.edu.cn/menu/177) at GBU.  
+I am a tenure-track assistant professor at **Great Bay University** (GBU), based at the [Center for Intelligent Computing](https://www.gbu.edu.cn/menu/208) of the Great Bay Institute for Advanced Study, with a joint appointment in the [School of Computing and Information Technology](https://www.gbu.edu.cn/menu/177) at GBU.
 
 Prior to this, I was a Postdoctoral Researcher at the [Mathematical Institute](https://www.maths.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/), working with [Prof. Coralia Cartis](https://www.maths.ox.ac.uk/people/coralia.cartis). I received my Ph.D. in Mathematics from [The University of Queensland](https://www.uq.edu.au/) under the supervision of [Prof. Fred Roosta](https://people.smp.uq.edu.au/FredRoosta/) and [Prof. Dirk P. Kroese](https://people.smp.uq.edu.au/DirkKroese/).
 
