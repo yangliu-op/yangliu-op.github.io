@@ -17,6 +17,7 @@ E-mail: liuy **at** gbu.edu.cn
 News
 ----
 - [Great Bay Workshop on Intelligent Computing & Optimization (GBWICO 2027)](https://yangliu-op.github.io/gbwico2027/), January 2-5, 2027, Great Bay University, Dongguan, China.
+  - Registration (in Chinese): [conf.orsc.org.cn/conferences/guest?id=67](https://conf.orsc.org.cn/conferences/guest?id=67)
 
 Research Interests
 ----
